@@ -10,8 +10,8 @@ Busca dados e analisa dados da ação inserida:
 
 Passo a passo do envio do e-mail automático com o resultado da análise:
 -
-  • Instalamos e importamos as bibliotecas pyautogui e pyperclip.<br>
-  • Realizamos uma pausa do mouse em 5 segundos;<br>
+  • Instalamos e importamos as bibliotecas time, pyautogui e pyperclip.<br>
+  • Realizamos uma pausa do mouse e da automação em 5 segundos;<br>
   • Copiamos o endereço www.gmail.com;<br>
   • Efetuamos um ctrl + v do endereço do gmail;<br>
   • Damos um enter;<br>
